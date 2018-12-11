@@ -1,0 +1,13 @@
+.image {
+    height: 150px;
+    width: 125px;
+}
+
+#pokemon {
+    outline-color:green;
+}
+
+body {
+    color: white;
+    background: url(../images/Pokémon_Stadium_2.jpg);
+}

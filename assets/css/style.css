@@ -7,7 +7,39 @@
     outline-color:green;
 }
 
+p{
+    color: red;
+    background-color: black;
+}
+
 body {
-    color: white;
+    color: blue;
     background: url(../images/pokemonstadium.jpg);
+    background-size:  1000px;
+    background-repeat : no-repeat;
+}
+
+#battleWin {
+    color:orange;
+    background-color: black;
+    
+}
+
+.battleHitCurrent {
+
+    background-color: black;
+    color: red;
+}
+
+#win {
+    color: green;
+    background-color: black;
+}
+
+#loss {
+    color: yellow
+}
+
+.click {
+    background-color: black;
 }

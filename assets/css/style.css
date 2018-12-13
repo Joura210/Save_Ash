@@ -17,6 +17,7 @@ body {
     background: url(../images/pokemonstadium.jpg);
     background-size:  1000px;
     background-repeat : no-repeat;
+    background-color: silver;
 }
 
 #battleWin {
@@ -43,3 +44,7 @@ body {
 .click {
     background-color: black;
 }
+
+/* * {
+    background-color: silver;
+} */
